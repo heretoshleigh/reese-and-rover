@@ -3,7 +3,7 @@ This simple, responsive website provides a landing page for a local dog-walking 
 
 [Visit live site](https://reeseandrover.netlify.app/)
 
-![reese-and-rover](https://user-images.githubusercontent.com/101761079/179812028-3509e3bd-fed6-4297-83c6-600d6b3619ed.jpg)
+![reese-and-rover](https://user-images.githubusercontent.com/101761079/179817492-e6c18945-dadb-4312-ac00-3026e38d215e.jpg)
 
 ### Tech used:
 HTML, CSS, JavaScript
